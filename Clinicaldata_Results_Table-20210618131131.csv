@@ -1,0 +1,148 @@
+ProductName;ActiveSubstance;Mah;ProductStatus;PublicationDate;ProcedureType;AtcCode;Generic;Biosimilar;ConditionalApproval;ExceptionalCircumstances;Orphan;article58;WithdrawnProcedure;ProcedureNumber;numberOfDocuments
+Dexamethasone Taw (WD);DEXAMETHASONE PHOSPHATE;Taw Pharma (Ireland) Ltd;Withdrawn;19/03/2021;Initial marketing authorisation;H02AB02;No;No;No;No;No;No;Yes;EMEA/H/C/005740/0000;2
+COMIRNATY;COVID-19 mRNA vaccine (nucleoside-modified);BioNTech Manufacturing GmbH;Authorised;11/03/2021;Initial marketing authorisation;J07BX03;No;No;Yes;No;No;No;No;EMEA/H/C/005735/0000;18
+COVID-19 Vaccine Moderna;COVID-19 mRNA vaccine (nucleoside-modified);Moderna Biotech Spain  S.L.;Authorised;02/03/2021;Initial marketing authorisation;J07BX03;No;No;Yes;No;No;No;No;EMEA/H/C/005791/0000;26
+Veklury;REMDESIVIR;Gilead Sciences Ireland UC;Authorised;25/02/2021;Extension of indication;J05AB16;No;No;No;No;No;No;No;EMEA/H/C/005622/0000/II/0012;3
+Veklury;REMDESIVIR;Gilead Sciences Ireland UC;Authorised;30/10/2020;Initial marketing authorisation;N/A;No;No;Yes;No;No;No;No;EMEA/H/C/005622/0000;64
+Inovelon;RUFINAMIDE;Eisai GmbH;Authorised;04/12/2018;Extension of indication;N03AF03;No;No;No;No;Yes;No;No;EMEA/H/C/000660/II/0037;21
+Ameluz;5-AMINOLEVULINIC ACID;Biofrontera Bioscience GmbH;Authorised;12/11/2018;Extension of indication;L01XD04;No;No;No;No;No;No;No;EMEA/H/C/002204/II/0020;25
+Truxima;RITUXIMAB;Celltrion Healthcare Hungary Kft.;Authorised;09/11/2018;Initial marketing authorisation;L01XC02;No;Yes;No;No;No;No;No;EMEA/H/C/004112/0000;32
+Alecensa;ALECTINIB;Roche Registration GmbH;Authorised;17/10/2018;Initial marketing authorisation;L01XE36;No;No;No;No;No;No;No;EMEA/H/C/004164/0000;44
+Lucentis;RANIBIZUMAB;Novartis Europharm Limited;Authorised;09/10/2018;Extension of indication;S01LA04;No;No;No;No;No;No;No;EMEA/H/C/000715/II/0061;14
+Movymia;TERIPARATIDE;STADA Arzneimittel AG;Authorised;02/10/2018;Initial marketing authorisation;H05AA02;No;Yes;No;No;No;No;No;EMEA/H/C/004368/0000;6
+Terrosa;TERIPARATIDE;Gedeon Richter Plc.;Authorised;02/10/2018;Initial marketing authorisation;H05AA02;No;Yes;No;No;No;No;No;EMEA/H/C/003916/0000;6
+Jardiance;EMPAGLIFLOZIN;Boehringer Ingelheim International GmbH;Authorised;01/10/2018;Extension of indication;A10BK03;No;No;No;No;No;No;No;EMEA/H/C/002677/II/0014;16
+LEDAGA;CHLORMETHINE;Actelion Registration Limited;Authorised;28/09/2018;Initial marketing authorisation;L01AA05;No;No;No;No;Yes;No;No;EMEA/H/C/002826/0000;22
+Ivabradine Accord;IVABRADINE;Accord Healthcare Limited;Authorised;27/09/2018;Initial marketing authorisation;C01EB17;Yes;No;No;No;No;No;No;EMEA/H/C/004241/0000;4
+Pregabalin Zentiva k.s.;PREGABALIN;Zentiva k.s.;Authorised;18/09/2018;Initial marketing authorisation;N03AX16;Yes;No;No;No;No;No;No;EMEA/H/C/004277/0000;4
+Kepnetic (WD);ACENEURAMIC ACID;Ultragenyx UK Limited;Withdrawn;18/09/2018;Initial marketing authorisation;M09AX;No;No;No;No;No;No;Yes;EMEA/H/C/004176/0000;33
+Keytruda;PEMBROLIZUMAB;Merck Sharp & Dohme B.V.;Authorised;14/09/2018;Extension of indication;L01XC18;No;No;No;No;No;No;No;EMEA/H/C/003820/II/0011;15
+Darunavir Mylan;DARUNAVIR;Mylan S.A.S;Authorised;13/09/2018;Initial marketing authorisation;J05AE10;Yes;No;No;No;No;No;No;EMEA/H/C/004068/0000;21
+Humira;ADALIMUMAB;AbbVie Deutschland GmbH & Co. KG;Authorised;13/09/2018;Extension of indication;L04AB04;No;No;No;No;No;No;No;EMEA/H/C/000481/II/0154;13
+OCALIVA;OBETICHOLIC ACID;Intercept Pharma Ltd;Authorised;12/09/2018;Initial marketing authorisation;A05AA04;No;No;Yes;No;Yes;No;No;EMEA/H/C/004093/0000;160
+LUSDUNA;INSULIN GLARGINE;Merck Sharp & Dohme Limited;Authorised;05/09/2018;Initial marketing authorisation;A10AE04;No;Yes;No;No;No;No;No;EMEA/H/C/004101/0000;55
+Vimpat;LACOSAMIDE;UCB Pharma S.A.;Authorised;03/09/2018;Extension of indication;N03AX18;No;No;No;No;No;No;No;EMEA/H/C/000863/II/0060/G;9
+Afstyla;LONOCTOCOG ALFA;CSL Behring GmbH;Authorised;30/08/2018;Initial marketing authorisation;B02BD02;No;No;No;No;No;No;No;EMEA/H/C/004075/0000;38
+Nimenrix;MENINGOCOCCAL GROUP A  C  W135 AND Y CONJUGATE VACCINE;Pfizer Limited;Authorised;29/08/2018;Extension of indication;J07AH08;No;No;No;No;No;No;No;EMEA/H/C/002226/II/0049;9
+Jentadueto;LINAGLIPTIN / METFORMIN;Boehringer Ingelheim International GmbH;Authorised;24/08/2018;Workshare;A10BD11;No;No;No;No;No;No;No;EMEA/H/C/002279/WS0915;21
+Trajenta;LINAGLIPTIN;Boehringer Ingelheim International GmbH;Authorised;24/08/2018;Workshare;A10BH05;No;No;No;No;No;No;No;EMEA/H/C/002110/WS0915;21
+Olumiant;BARICITINIB;Eli Lilly Nederland B.V.;Authorised;14/08/2018;Initial marketing authorisation;L04AA37;No;No;No;No;No;No;No;EMEA/H/C/004085/0000;145
+Cinryze;C1 ESTERASE INHIBITOR (HUMAN);Shire Services BVBA;Authorised;07/08/2018;Extension of indication;B06AC01;No;No;No;No;No;No;No;EMEA/H/C/001207/II/0045;30
+Stelara;USTEKINUMAB;Janssen-Cilag International NV;Authorised;03/08/2018;Line Extension;L04AC05;No;No;No;No;No;No;No;EMEA/H/C/000958/X/0049/G;36
+Repatha;EVOLOCUMAB;Amgen Europe B.V.;Authorised;02/08/2018;Line Extension;C10AX13;No;No;No;No;No;No;No;EMEA/H/C/003766/X/0002;9
+IBRANCE;PALBOCICLIB;Pfizer Limited;Authorised;27/07/2018;Initial marketing authorisation;L01XE33;No;No;No;No;No;No;No;EMEA/H/C/003853/0000;194
+Vemlidy;TENOFOVIR ALAFENAMIDE;Gilead Sciences International Limited;Authorised;26/07/2018;Initial marketing authorisation;J05AF;No;No;No;No;No;No;No;EMEA/H/C/004169/0000;230
+Rekovelle;FOLLITROPIN DELTA;Ferring Pharmaceuticals A/S;Authorised;17/07/2018;Initial marketing authorisation;G03GA;No;No;No;No;No;No;No;EMEA/H/C/003994/0000;88
+Fiasp;INSULIN ASPART;Novo Nordisk A/S;Authorised;13/07/2018;Initial marketing authorisation;A10AB05;No;No;No;No;No;No;No;EMEA/H/C/004046/0000;69
+Trisenox;ARSENIC TRIOXIDE;Teva B.V.;Authorised;04/07/2018;Extension of indication;L01XX27;No;No;No;No;No;No;No;EMEA/H/C/000388/II/0058;6
+OPDIVO;NIVOLUMAB;Bristol-Myers Squibb Pharma EEIG;Authorised;27/06/2018;Extension of indication;L01XC17;No;No;No;No;No;No;No;EMEA/H/C/003985/II/0012;9
+Venclyxto;VENETOCLAX;AbbVie Limited;Authorised;26/06/2018;Initial marketing authorisation;L01XX52;No;No;Yes;No;Yes;No;No;EMEA/H/C/004106/0000;67
+CABOMETYX;CABOZANTINIB;Ipsen Pharma;Authorised;22/06/2018;Initial marketing authorisation;L01XE26;No;No;No;No;No;No;No;EMEA/H/C/004163/0000;106
+Zemfirza (WD);CEDIRANIB;AstraZeneca AB;Withdrawn;22/06/2018;Initial marketing authorisation;L01XE32;No;No;No;No;Yes;No;Yes;EMEA/H/C/004003/0000;160
+Zinplava;BEZLOTOXUMAB;Merck Sharp & Dohme Limited;Authorised;22/06/2018;Initial marketing authorisation;J06BB;No;No;No;No;No;No;No;EMEA/H/C/004136/0000;54
+Talmanco;TADALAFIL;Mylan S.A.S;Authorised;20/06/2018;Initial marketing authorisation;G04BE08;Yes;No;No;No;No;No;No;EMEA/H/C/004297/0000;14
+NINLARO;IXAZOMIB;Takeda Pharma A/S;Authorised;15/06/2018;Initial marketing authorisation;L01XX50;No;No;Yes;No;Yes;No;No;EMEA/H/C/003844/0000;40
+Tenofovir disoproxil Mylan;TENOFOVIR DISOPROXIL;Mylan S.A.S;Authorised;13/06/2018;Initial marketing authorisation;J05AF07;Yes;No;No;No;No;No;No;EMEA/H/C/004049/0000;10
+Pemetrexed ditromethamine Hospira (WD);PEMETREXED;Hospira UK Limited;Withdrawn;12/06/2018;Initial marketing authorisation;L01BA04;Yes;No;No;No;No;No;Yes;EMEA/H/C/004306/0000;2
+Lartruvo;OLARATUMAB;Eli Lilly Nederland B.V.;Authorised;08/06/2018;Initial marketing authorisation;L01XC27;No;No;Yes;No;Yes;No;No;EMEA/H/C/004216/0000;50
+Emtricitabine/Tenofovir disoproxil Mylan;EMTRICITABINE / TENOFOVIR DISOPROXIL;Mylan S.A.S;Authorised;08/06/2018;Initial marketing authorisation;J05AR03;Yes;No;No;No;No;No;No;EMEA/H/C/004050/0000;10
+Daklinza;DACLATASVIR;Bristol-Myers Squibb Pharma EEIG;Authorised;29/05/2018;Line Extension;J05AX14;No;No;No;No;No;No;No;EMEA/H/C/003768/X/0013;7
+Emtricitabine/Tenofovir disoproxil Zentiva;EMTRICITABINE / TENOFOVIR DISOPROXIL;Zentiva k.s.;Authorised;25/05/2018;Initial marketing authorisation;J05AR03;Yes;No;No;No;No;No;No;EMEA/H/C/004137/0000;4
+Cokiera (WD);DASABUVIR / OMBITASVIR / PARITAPREVIR / RITONAVIR;AbbVie Limited;Withdrawn;24/05/2018;Initial marketing authorisation;J05AX66;No;No;No;No;No;No;Yes;EMEA/H/C/004235/0000;292
+SomaKit TOC;EDOTREOTIDE;Advanced Accelerator Applications;Authorised;24/05/2018;Initial marketing authorisation;V09IX;No;No;No;No;Yes;No;No;EMEA/H/C/004140/0000;9
+Parsabiv;ETELCALCETIDE;Amgen Europe B.V.;Authorised;18/05/2018;Initial marketing authorisation;H05BX;No;No;No;No;No;No;No;EMEA/H/C/003995/0000;93
+Adempas;RIOCIGUAT;Bayer AG;Authorised;18/05/2018;Extension of indication;C02KX05;No;No;No;No;Yes;No;Yes;EMEA/H/C/002737/II/0011;12
+Ivabradine Zentiva;IVABRADINE;Zentiva k.s.;Authorised;18/05/2018;Initial marketing authorisation;C01EB17;Yes;No;No;No;No;No;No;EMEA/H/C/004117/0000;4
+Zytiga;ABIRATERONE ACETATE;Janssen-Cilag International NV;Authorised;17/05/2018;Line Extension;L02BX03;No;No;No;No;No;No;No;EMEA/H/C/002321/X/0039;10
+Onivyde;IRINOTECAN HYDROCHLORIDE TRIHYDRATE;Baxalta Innovations GmbH;Authorised;08/05/2018;Initial marketing authorisation;L01XX19;No;No;No;No;Yes;No;No;EMEA/H/C/004125/0000;21
+Granpidam;SILDENAFIL;Accord Healthcare Ltd;Authorised;25/04/2018;Initial marketing authorisation;G04BE03;Yes;No;No;No;No;No;No;EMEA/H/C/004289/0000;4
+Humira;ADALIMUMAB;AbbVie Limited;Authorised;19/04/2018;Extension of indication;L04AB04;No;No;No;No;No;No;No;EMEA/H/C/000481/II/0146;15
+Cinqaero;RESLIZUMAB;Teva Pharmaceuticals Limited;Authorised;17/04/2018;Initial marketing authorisation;R03DX08;No;No;No;No;No;No;No;EMEA/H/C/003912/0000;31
+Imbruvica;IBRUTINIB;Janssen-Cilag International NV;Authorised;11/04/2018;Extension of indication;L01XE27;No;No;No;No;Yes;No;No;EMEA/H/C/003791/II/0017/G;45
+Ivabradine JensonR;IVABRADINE;JensonR+ Limited;Authorised;06/04/2018;Initial marketing authorisation;C01EB17;Yes;No;No;No;No;No;No;EMEA/H/C/004217/0000;7
+XALKORI;CRIZOTINIB;Pfizer Limited;Authorised;26/03/2018;Extension of indication;L01XE16;No;No;No;No;No;No;No;EMEA/H/C/002489/II/0039;14
+Emtricitabine/Tenofovir disoproxil Krka;EMTRICITABINE / TENOFOVIR DISOPROXIL;KRKA  d.d.  Novo mesto;Authorised;20/03/2018;Initial marketing authorisation;J05AR03;Yes;No;No;No;No;No;No;EMEA/H/C/004215/0000;4
+Emtricitabine/tenofovir disoproxil Krka d.d.;EMTRICITABINE / TENOFOVIR DISOPROXIL;KRKA  d.d.  Novo mesto;Authorised;20/03/2018;Initial marketing authorisation;J05AR03;Yes;No;No;No;No;No;No;EMEA/H/C/004686/0000;4
+NovoRapid;INSULIN ASPART;Novo Nordisk A/S;Authorised;15/03/2018;Extension of indication;A10AB05;No;No;No;No;No;No;No;EMEA/H/C/000258/II/0112;16
+Chenodeoxycholic acid Leadiant;CHENODEOXYCHOLIC ACID;Leadiant GmbH;Authorised;12/03/2018;Initial marketing authorisation;A05AA01;No;No;No;Yes;Yes;No;No;EMEA/H/C/004061/0000;14
+Inhixa;ENOXAPARIN SODIUM;Techdow Europe AB;Authorised;09/03/2018;Initial marketing authorisation;B01AB05;No;Yes;No;No;No;No;No;EMEA/H/C/004264/0000;4
+Thorinane;ENOXAPARIN SODIUM;Techdow Pharma Netherlands B.V.;Authorised;09/03/2018;Initial marketing authorisation;B01AB05;No;Yes;No;No;No;No;No;EMEA/H/C/003795/0000;4
+Tenofovir disoproxil Zentiva;TENOFOVIR DISOPROXIL;Zentiva k.s.;Authorised;06/03/2018;Initial marketing authorisation;J05AF07;Yes;No;No;No;No;No;No;EMEA/H/C/004120/0000;4
+Glyxambi;EMPAGLIFLOZIN / LINAGLIPTIN;Boehringer Ingelheim International GmbH;Authorised;02/03/2018;Initial marketing authorisation;A10BD19;No;No;No;No;No;No;No;EMEA/H/C/003833/0000;63
+Xegafri (WD);ROCILETINIB;Clovis Oncology UK Ltd;Withdrawn;01/03/2018;Initial marketing authorisation;L01XE;No;No;No;No;No;No;Yes;EMEA/H/C/004053/0000;63
+Aerivio Spiromax;SALMETEROL / FLUTICASONE PROPIONATE;Teva B.V.;Authorised;23/02/2018;Initial marketing authorisation;R03AK06;No;No;No;No;No;No;No;EMEA/H/C/002752/0000;10
+Airexar Spiromax;SALMETEROL / FLUTICASONE PROPIONATE;Teva B.V.;Authorised;23/02/2018;Initial marketing authorisation;R03AK06;No;No;No;No;No;No;No;EMEA/H/C/004267/0000;10
+Kisplyx;LENVATINIB;Eisai Europe Ltd.;Authorised;22/02/2018;Initial marketing authorisation;L01XE29;No;No;No;No;No;No;No;EMEA/H/C/004224/0000;205
+Orencia;ABATACEPT;Bristol-Myers Squibb Pharma EEIG;Authorised;01/02/2018;Extension of indication;L04AA24;No;No;No;No;No;No;No;EMEA/H/C/000701/II/0097;7
+Ertapenem Hospira (WD);ERTAPENEM;Hospira UK Limited;Withdrawn;30/01/2018;Initial marketing authorisation;J01DH03;Yes;No;No;No;No;No;Yes;EMEA/H/C/004080/0000;2
+Begedina (WD);BEGELOMAB;ADIENNE S.r.l. S.U.;Withdrawn;26/01/2018;Initial marketing authorisation;L04AA35;No;No;No;No;Yes;No;Yes;EMEA/H/C/004144/0000;11
+Keytruda;PEMBROLIZUMAB;Merck Sharp & Dohme Limited;Authorised;25/01/2018;Extension of indication;L01XC18;No;No;No;No;No;No;No;EMEA/H/C/003820/II/0007;30
+Alendronic Acid/Colecalciferol Mylan (WD);ALENDRONIC ACID / COLECALCIFEROL;Mylan S.A.S;Withdrawn;25/01/2018;Initial marketing authorisation;M05BB03;Yes;No;No;No;No;No;Yes;EMEA/H/C/004172/0000;8
+Truvada;EMTRICITABINE / TENOFOVIR DISOPROXIL;Gilead Sciences International Limited;Authorised;23/01/2018;Extension of indication;J05AR03;No;No;No;No;No;No;No;EMEA/H/C/000594/II/0126;36
+Galafold;MIGALASTAT;Amicus Therapeutics UK Ltd;Authorised;19/01/2018;Initial marketing authorisation;AI6AX14;No;No;No;No;Yes;No;No;EMEA/H/C/004059/0000;0
+Nevanac;NEPAFENAC;Novartis Europharm Ltd;Authorised;12/01/2018;Extension of indication;S01BC10;No;No;No;No;No;No;No;EMEA/H/C/000818/II/0032;10
+Truberzi;ELUXADOLINE;Allergan Pharmaceuticals International Ltd;Authorised;05/01/2018;Initial marketing authorisation;A07;No;No;No;No;No;No;No;EMEA/H/C/004098/0000;101
+ILARIS;CANAKINUMAB;Novartis Europharm Ltd;Authorised;20/12/2017;Extension of indication;L04AC08;No;No;No;No;No;No;No;EMEA/H/C/001109/II/0043;11
+Zontivity;VORAPAXAR;Merck Sharp & Dohme Limited;Authorised;19/12/2017;Extension of indication;B01AC26;No;No;No;No;No;No;No;EMEA/H/C/002814/II/0005;18
+Trevicta;PALIPERIDONE;Janssen-Cilag International NV;Authorised;11/12/2017;Line Extension;N05AX13;No;No;No;No;No;No;No;EMEA/H/C/004066/X/0007/G;33
+Kyndrisa (WD);DRISAPERSEN;BioMarin International Limited;Withdrawn;06/12/2017;Initial marketing authorisation;M09AX04;No;No;No;No;Yes;No;Yes;EMEA/H/C/003846/0000;105
+Arzerra;OFATUMUMAB;Novartis Europharm Ltd;Authorised;16/11/2017;Extension of indication;L01XC10;No;No;No;No;Yes;No;No;EMEA/H/C/001131/II/0041;26
+Ryzodeg;INSULIN HUMAN;Novo Nordisk A/S;Authorised;15/11/2017;Extension of indication;A10AD06;No;No;No;No;No;No;No;EMEA/H/C/002499/II/0017;27
+RoActemra;TOCILIZUMAB;Roche Registration Limited;Authorised;15/11/2017;Extension of indication;L04AC07;No;No;No;No;No;No;No;EMEA/H/C/000955/II/0057;20
+Epclusa;SOFOSBUVIR / VELPATASVIR;Gilead Sciences International Limited;Authorised;26/10/2017;Initial marketing authorisation;J05AX69;No;No;No;No;No;No;No;EMEA/H/C/004210/0000;455
+Umbipro (TM);CHLORHEXIDINE;GlaxoSmithKline Trading Services Limited;Authorised;24/10/2017;Initial marketing authorisation;D08AC02;No;No;No;No;No;Yes;No;EMEA/H/W/003799/0000;6
+Imbruvica;IBRUTINIB;Janssen-Cilag International NV;Authorised;23/10/2017;Extension of indication;L01XE27;No;No;No;No;Yes;No;No;EMEA/H/C/003791/II/0016;17
+Nordimet;METHOTREXATE;Nordic Group B.V.;Authorised;18/10/2017;Initial marketing authorisation;L04AX03;No;No;No;No;No;No;No;EMEA/H/C/003983/0000;2
+Mysildecard;SILDENAFIL;Mylan S.A.S;Authorised;06/10/2017;Initial marketing authorisation;G04BE03;Yes;No;No;No;No;No;No;EMEA/H/C/004186/0000;7
+Revestive;TEDUGLUTIDE;Shire Pharmaceuticals Ireland Ltd;Authorised;04/10/2017;Extension of indication;A16AX08;No;No;No;No;Yes;No;No;EMEA/H/C/002345/II/0020;18
+Humira;ADALIMUMAB;AbbVie Ltd.;Authorised;29/09/2017;Extension of indication;L04AB04;No;No;No;No;No;No;No;EMEA/H/C/000481/II/0147;10
+Odefsey;EMTRICITABINE / RILPIVIRINE / TENOFOVIR ALAFENAMIDE;Gilead Sciences International Ltd;Authorised;28/09/2017;Initial marketing authorisation;J05AR19;No;No;No;No;No;No;No;EMEA/H/C/004156/0000;918
+Qtern;SAXAGLIPTIN / DAPAGLIFLOZIN;AstraZeneca AB;Authorised;20/09/2017;Initial marketing authorisation;A10BD21;No;No;No;No;No;No;No;EMEA/H/C/004057/0000;22
+OPDIVO;NIVOLUMAB;Bristol-Myers Squibb Pharma EEIG;Authorised;19/09/2017;Extension of indication;L01XC17;No;No;No;No;No;No;No;EMEA/H/C/003985/II/0003;17
+Docetaxel SUN;DOCETAXEL;Sun Pharmaceutical Industries Europe B.V.;Withdrawn;13/09/2017;Initial marketing authorisation;L01CD02;Yes;No;No;No;No;No;Yes;EMEA/H/C/004086/0000;2
+HyQvia;HUMAN NORMAL IMMUNOGLOBULIN;Baxalta Innovations GmbH;Authorised;12/09/2017;Extension of indication;J06BA;No;No;No;No;No;No;No;EMEA/H/C/002491/II/0021;35
+Kyprolis;CARFILZOMIB;Amgen Europe B.V.;Authorised;07/09/2017;Extension of indication;L01XX45;No;No;No;No;Yes;No;No;EMEA/H/C/003790/II/0001/G;11
+Zepatier;ELBASVIR / GRAZOPREVIR;Merck Sharp & Dohme Limited;Authorised;05/09/2017;Initial marketing authorisation;J05A;No;No;No;No;No;No;No;EMEA/H/C/004126/0000;512
+Darzalex;DARATUMUMAB;Janssen-Cilag International NV;Authorised;04/09/2017;Initial marketing authorisation;L01XC;No;No;No;No;Yes;No;No;EMEA/H/C/004077/0000;28
+Afinitor;EVEROLIMUS;Novartis Europharm Ltd;Authorised;01/09/2017;Extension of indication;L01XE10;No;No;No;No;No;No;No;EMEA/H/C/001038/II/0048;15
+Bortezomib SUN;BORTEZOMIB;Sun Pharmaceutical Industries Europe B.V.;Authorised;25/08/2017;Initial marketing authorisation;L01XX32;Yes;No;No;No;No;No;No;EMEA/H/C/004076/0000;2
+Ruconest;CONESTAT ALFA;Pharming Group N.V;Authorised;10/08/2017;Extension of indication;B06AC04;No;No;No;No;No;No;No;EMEA/H/C/001223/II/0031;29
+Gazyvaro;OBINUTUZUMAB;Roche Registration Limited;Authorised;10/08/2017;Extension of indication;L01XC15;No;No;No;No;Yes;No;No;EMEA/H/C/002799/II/0007;24
+Taltz;IXEKIZUMAB;Eli Lilly Nederland B.V.;Authorised;02/08/2017;Initial marketing authorisation;L04;No;No;No;No;No;No;No;EMEA/H/C/003943/0000;72
+Victoza;LIRAGLUTIDE;Novo Nordisk A/S;Authorised;02/08/2017;Extension of indication;A10BX07;No;No;No;No;No;No;No;EMEA/H/C/001026/II/0038;6
+Zavicefta;CEFTAZIDIME / AVIBACTAM;Pfizer Ireland Pharmaceuticals;Authorised;26/07/2017;Initial marketing authorisation;J01DD52;No;No;No;No;No;No;No;EMEA/H/C/004027/0000;98
+Humira;ADALIMUMAB;AbbVie Ltd.;Authorised;25/07/2017;Extension of indication;L04AB04;No;No;No;No;No;No;No;EMEA/H/C/000481/II/0149;8
+Enzepi;PANCREAS POWDER;Allergan Pharmaceuticals International Ltd;Authorised;25/07/2017;Initial marketing authorisation;A09AA02;No;No;No;No;No;No;No;EMEA/H/C/002070/0000;35
+Avastin;BEVACIZUMAB;Roche Registration Limited;Authorised;24/07/2017;Extension of indication;L01XC07;No;No;No;No;No;No;No;EMEA/H/C/000582/II/0086;28
+Pandemic influenza vaccine H5N1 AstraZeneca;PANDEMIC INFLUENZA VACCINE (H5N1) (LIVE ATTENUATED  NASAL);AstraZeneca AB;Authorised;21/07/2017;Initial marketing authorisation;J07BB03;No;No;Yes;No;No;No;No;EMEA/H/C/003963/0000;112
+Zinbryta;DACLIZUMAB;Biogen Idec Ltd;Authorised;17/07/2017;Initial marketing authorisation;L04AC01;No;No;No;No;No;No;No;EMEA/H/C/003862/0000;20
+Lonsurf;TRIFLURIDINE / TIPIRACIL;Les Laboratoires Servier;Authorised;07/07/2017;Initial marketing authorisation;L01BC;No;No;No;No;No;No;No;EMEA/H/C/003897/0000;66
+Flixabi;INFLIXIMAB;Samsung Bioepis UK Limited (SBUK);Authorised;30/06/2017;Initial marketing authorisation;L04AB02;No;Yes;No;No;No;No;No;EMEA/H/C/004020/0000;15
+Strimvelis;AUTOLOGOUS CD34+ ENRICHED CELL FRACTION THAT CONTAINS CD34+ CELLS TRANSDUCED WITH RETROVIRAL VECTOR THAT ENCODES FOR THE HUMAN ADA CDNA SEQUENCE;GlaxoSmithKline Trading Services;Authorised;29/06/2017;Initial marketing authorisation;L03;No;No;No;No;Yes;No;No;EMEA/H/C/003854/0000;23
+Halaven;ERIBULIN;Eisai Europe Ltd.;Authorised;22/06/2017;Extension of indication;L01XX41;No;No;No;No;No;No;No;EMEA/H/C/002084/II/0028;34
+OPDIVO;NIVOLUMAB;Bristol-Myers Squibb Pharma EEIG;Authorised;21/06/2017;Extension of indication;L01XC17;No;No;No;No;No;No;No;EMEA/H/C/003985/II/0002;8
+OPDIVO;NIVOLUMAB;Bristol-Myers Squibb Pharma EEIG;Authorised;21/06/2017;Extension of indication;L01XC17;No;No;No;No;No;No;No;EMEA/H/C/003985/II/0008;12
+Bortezomib Hospira;BORTEZOMIB;Hospira UK Limited;Authorised;12/06/2017;Initial marketing authorisation;L01XX32;Yes;No;No;No;No;No;No;EMEA/H/C/004207/0000;2
+Alprolix;EFTRENONACOG ALFA;Swedish Orphan Biovitrum AB (publ);Authorised;02/06/2017;Initial marketing authorisation;B02BD04;No;No;No;No;Yes;No;No;EMEA/H/C/004142/0000;16
+Rasagiline Mylan;RASAGILINE;MYLAN S.A.S;Authorised;02/06/2017;Initial marketing authorisation;N04BD02;Yes;No;No;No;No;No;No;EMEA/H/C/004064/0000;7
+EndolucinBeta;LUTETIUM (177 LU) CHLORIDE;ITG Isotope Technologies Garching GmbH;Authorised;01/06/2017;Initial marketing authorisation;V10X;No;No;No;No;No;No;No;EMEA/H/C/003999/0000;2
+Pemetrexed Fresenius Kabi;PEMETREXED;Fresenius Kabi Oncology PLC;Authorised;18/05/2017;Initial marketing authorisation;L01BA04;Yes;No;No;No;No;No;No;EMEA/H/C/003895/0000;2
+Giotrif;AFATINIB;Boehringer Ingelheim International GmbH;Authorised;18/05/2017;Extension of indication;L01XE13;No;No;No;No;No;No;No;EMEA/H/C/002280/II/0012;86
+TAGRISSO;OSIMERTINIB;AstraZeneca AB;Authorised;05/05/2017;Initial marketing authorisation;L01XE;No;No;No;No;No;No;No;EMEA/H/C/004124/0000;104
+Ferriprox;DEFERIPRONE;Apotex Europe BV;Authorised;05/05/2017;Extension of indication;V03AC02;No;No;No;No;No;No;No;EMEA/H/C/000236/II/0103;2
+Zonisamide Mylan;ZONISAMIDE;Mylan S.A.S;Authorised;02/05/2017;Initial marketing authorisation;N03AX15;Yes;No;No;No;No;No;No;EMEA/H/C/004127/0000;4
+IDELVION;ALBUTREPENONACOG ALFA;CSL Behring GmbH;Authorised;28/04/2017;Initial marketing authorisation;B02BD;No;No;No;No;Yes;No;No;EMEA/H/C/003955/0000;45
+Descovy;EMTRICITABINE / TENOFOVIR ALAFENAMIDE;Gilead Sciences International Ltd;Authorised;21/04/2017;Initial marketing authorisation;J05AR17;No;No;No;No;No;No;No;EMEA/H/C/004094/0000;324
+Palonosetron Accord;PALONOSETRON;Accord Healthcare Ltd;Authorised;16/03/2017;Initial marketing authorisation;A04AA05;Yes;No;No;No;No;No;No;EMEA/H/C/004129/0000;2
+Amlodipine-Valsartan Mylan;AMLODIPINE / VALSARTAN;MYLAN S.A.S;Authorised;16/03/2017;Initial marketing authorisation;C09DB01;Yes;No;No;No;No;No;No;EMEA/H/C/004037/0000;11
+Empliciti;Elotuzumab;Bristol-Myers Squibb Pharma EEIG;Authorised;28/02/2017;Initial marketing authorisation;L01XC23;No;No;No;No;No;No;No;EMEA/H/C/003967/0000;20
+Coagadex;Human coagulation factor X;Bio Products Laboratory Limited;Authorised;28/02/2017;Initial marketing authorisation;B02BD13;No;No;No;No;Yes;No;No;EMEA/H/C/003855/0000;7
+Cubicin;Daptomycin;Merck Sharp & Dohme Limited;Authorised;27/02/2017;Extension of indication;J01XX09;No;No;No;No;No;No;No;EMEA/H/C/000637/II/0053/G;28
+Aripiprazole Mylan;Aripiprazole;MYLAN S.A.S;Withdrawn;31/01/2017;Initial marketing authorisation;N05AX12;Yes;No;No;No;No;No;Yes;EMEA/H/C/004236/0000;12
+Palonosetron Hospira;Palonosetron;Hospira UK Limited;Authorised;30/01/2017;Initial marketing authorisation;A04AA05;Yes;No;No;No;No;No;No;EMEA/H/C/004069/0000;2
+Praxbind;Idarucizumab;Boehringer Ingelheim International GmbH;Authorised;21/12/2016;Initial marketing authorisation;V03AB37;No;No;No;No;No;No;No;EMEA/H/C/003986/0000;25
+Tarceva;Erlotinib;Roche Registration Limited;Authorised;21/12/2016;Extension of indication;L01XE03;No;No;No;No;No;No;No;EMEA/H/C/000618/II/0043;7
+Armisarte;Pemetrexed diacid monohydrate;Actavis Group PTC ehf;Authorised;24/11/2016;Initial marketing authorisation;L01BA04;No;No;No;No;No;No;No;EMEA/H/C/004109/0000;19
+Caspofungin Accord;Caspofungin acetate;Accord Healthcare Ltd;Authorised;24/11/2016;Initial marketing authorisation;J02AX04;Yes;No;No;No;No;No;No;EMEA/H/C/004134/0000;2
+Zurampic;Lesinurad;Grunenthal GmbH;Authorised;20/10/2016;Initial marketing authorisation;M04AB05;No;No;No;No;No;No;No;EMEA/H/C/003932/0000;246
+Kyprolis;CARFILZOMIB;Amgen Europe B.V.;Authorised;20/10/2016;Initial marketing authorisation;L01XX45;No;No;No;No;Yes;No;No;EMEA/H/C/003790/0000;115

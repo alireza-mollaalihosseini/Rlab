@@ -1,0 +1,17 @@
+
+  data {
+    int<lower=0> Ntot;
+    int<lower=0> Nclass;
+    int tested[Ntot];
+    int patient[Nclass];
+  }
+  parameters {
+    for(int k = 0; k < Nclass; k++ ){
+      real<lower=0,upper=1> theta[k];
+  }
+  model {
+    for ( int k = 0; k < Nclass; k++ ){
+      theta[k] ~ beta(3,100);
+      tested[k] ~ bernoulli(theta[patient[k]]);
+    }
+  }

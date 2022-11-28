@@ -1,0 +1,9 @@
+  
+  model {
+    for ( i in 1:Ntot ) {
+      tested[i] ~ dbern( theta[patient[i]] )
+    }
+  for ( k in 1:Nclass ) {
+    theta[k] ~ dbeta(0.9 , 1)    
+    }
+  }
